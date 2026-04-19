@@ -1,22 +1,17 @@
-<<<<<<< HEAD
-## Getting Started
+# Medical Staff Scheduling System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
+This project helps manage hospital staff schedules, shifts, attendance, and leave requests.
 
-## Folder Structure
+## Tech Stack
+- Java (Spring Boot)
+- Maven
+- HTML/CSS/JS
 
-The workspace contains two folders by default, where:
+## How to Run
+1. mvn clean install
+2. mvn spring-boot:run
+3. Open http://localhost:8080
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# medical-staff-scheduling-system
->>>>>>> 59c1129a14f476560949a52aa3140af6103517f8
+## Author
+Jeeva
